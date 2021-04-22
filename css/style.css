@@ -1,0 +1,23 @@
+/* footer */
+
+.footer-container {
+    background-color: #a2b29f;
+    padding: 20px;
+    text-align: center;
+    font-weight: lighter;
+}
+
+.footer-link {
+    color: #810000;
+    padding: 20px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #387c6d;
+}
+
+.copyright {
+    padding-top: 20px;
+    font-size: .725rem;
+}
